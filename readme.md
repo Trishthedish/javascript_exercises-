@@ -1,6 +1,6 @@
 ## JavaScript Exercises 1 - 2
 
-- JS info & hw Assignment found: [here](https://github.com/Ada-Developers-Academy/daily-curriculum/blob/master/topic_resources/javascript/javascript-101.md)[//https://github.com/Ada-Developers-Academy/daily-curriculum/blob/master/topic_resources/javascript/javascript-101.md).  
+- JS info & hw Assignment found: [here]("https://github.com/Ada-Developers-Academy/daily-curriculum/blob/master/topic_resources/javascript/javascript-101.md)[//https://github.com/Ada-Developers-Academy/daily-curriculum/blob/master/topic_resources/javascript/javascript-101.md")  
 
 # Switching from Ruby to JavaScript
 ## Takeaways from this assignment:
