@@ -7,11 +7,11 @@
  2. When trying to figure out what's happening in function in Ruby you might use a simple puts or print statement. In JavaScript you will use: console.log("typically needs concatenation to be useful" + function(call))
 
  3. ```ToDo.setDone(); // complete task.
-ToDo.getDone(); // view the done attribute.``` ```getDone()``` is simply the ```👀``` eyes into whats happening in the function. Which means the two expressions are both needed to setDone to true && then to view what is now stored in done attribute.
+ToDo.getDone(); // view the done attribute.``` ```getDone()``` is simply the ```👀``` eyes into whats happening in the function. Which means the two expressions are both needed to setDone to true & then to view what is now stored in done attribute.
 
 4. ```node javascript_ex_2.js``` equivalent to ``` ruby fake_ruby_ex_to_be_run_in_terminal.rb```
 
-5. In **"javascript_ex2.js"** Created two potential solutions and found that my terminal didn't throw an error when I attempted to run them both at same time. 
+5. In **"javascript_ex2.js"** Created two potential solutions and found that my terminal didn't throw an error when I attempted to run them both at same time.
 
 
 ## EXERCISES: JS Lesson && Assignment found [here](https://github.com/Ada-Developers-Academy/daily-curriculum/blob/master/topic_resources/javascript/javascript-101.md)
