@@ -1,7 +1,5 @@
 ## JavaScript Exercises 1 - 2
 
-- JS info & hw Assignment found: [here]("https://github.com/Ada-Developers-Academy/daily-curriculum/blob/master/topic_resources/javascript/javascript-101.md)[//https://github.com/Ada-Developers-Academy/daily-curriculum/blob/master/topic_resources/javascript/javascript-101.md")  
-
 # Switching from Ruby to JavaScript
 ## Takeaways from this assignment:
  1. ``` puts``` equivalent is ```console.log()```
@@ -10,7 +8,7 @@
 ToDo.getDone(); // view the done attribute. ```. getDone() is simply the 👀 eyes for us. Which means the two expressions are both needed to setDone to true && then to view what is now in it.
 
 
-# EXERCISES:
+# EXERCISES: Hwk & Lesson can be found [here](https://github.com/Ada-Developers-Academy/daily-curriculum/blob/master/topic_resources/javascript/javascript-101.md)
 
 ### Exercise #1: Create a ToDo object, with the following properties:
 
