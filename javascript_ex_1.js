@@ -1,6 +1,4 @@
-// JAVASCRIPT EXERCISES
-
-//https://github.com/Ada-Developers-Academy/daily-curriculum/blob/master/topic_resources/javascript/javascript-101.md
+//javascript_ex_1.js
 
 // Exercise #1: Create a ToDo object, with the following properties:
 // a task (string) - a description of the thing to do
@@ -8,7 +6,6 @@
 // done (boolean) - is the task done or not?
 // getDone (function) - get the value of done, use "this" in the body of the function.
 // setDone (function) - set the value of done, use "this" in the body of the function.
-
 var ToDo = {
 	aTask: "this is task.",
 	assignee: "Trish",
@@ -21,16 +18,18 @@ var ToDo = {
 	setDone: function(done) {
 		this.done = true;
 		},
+  // experimental:
 	unDone: function(done) {
 		this.done = false;
 	}
 };
 
+// I hope JavScript Node has a pretty print functionality.
 
 console.log("########################################");
 
 ToDo.getDone();
-// calling getDone function should simply reveal what state the done attribute is right now. Thus, I predict it will be false.
+// calling getDone function should simply reveal what state the done attribute is in right now. Thus, I predict it will be false.
 console.log("ToDo.getDone() Should be false: Should see false here >>> " + ToDo.getDone() + " <<<<");
 
 console.log("--------------------------");
@@ -51,6 +50,6 @@ console.log("--------------------------");
 
 
 // take aways:
-// 1. concatenation is key to printing what you want and its what we got when console.log()
+// 1. concatenation is key to printing out what you want (like puts, in Ruby).
 
-// 2. getDone() function is just another type of attr_reader or it servers as our  the eyes: 👀 into whats happening.
+// 2. getDone() function is just another type of attr_reader? it appears to servers as our eyes: 👀 into whats happening in the function .

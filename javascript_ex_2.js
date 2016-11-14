@@ -18,4 +18,4 @@ function getBiggest(array) {
 biggest = getBiggest(arrayOfNums);
 console.log("The biggest is: " + biggest);
 // => The biggest is: 9
-// likely a few different ways to achieve the end result. 
+// likely a few different ways to achieve the end result.

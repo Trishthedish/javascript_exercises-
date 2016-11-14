@@ -1,14 +1,14 @@
 ## JavaScript Exercises 1 - 2
 
 # Switching from Ruby to JavaScript
-## Takeaways from this assignment:
+## Trish Griego's Takeaways from this assignment:
  1. ``` puts``` equivalent is ```console.log()```
  2. When trying to figure out what's happening in function in Ruby you might use a simple puts or print statement. In JavaScript you will use: console.log("typically needs concatenation to be useful" + function(call))
  3. ```ToDo.setDone(); // complete task.
 ToDo.getDone(); // view the done attribute. ```. getDone() is simply the 👀 eyes for us. Which means the two expressions are both needed to setDone to true && then to view what is now in it.
 
 
-# EXERCISES: Hwk & Lesson can be found [here](https://github.com/Ada-Developers-Academy/daily-curriculum/blob/master/topic_resources/javascript/javascript-101.md)
+## EXERCISES: JS Lesson && Assignment found [here](https://github.com/Ada-Developers-Academy/daily-curriculum/blob/master/topic_resources/javascript/javascript-101.md)
 
 ### Exercise #1: Create a ToDo object, with the following properties:
 
