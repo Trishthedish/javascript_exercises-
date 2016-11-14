@@ -6,6 +6,7 @@
  2. When trying to figure out what's happening in function in Ruby you might use a simple puts or print statement. In JavaScript you will use: console.log("typically needs concatenation to be useful" + function(call))
  3. ```ToDo.setDone(); // complete task.
 ToDo.getDone(); // view the done attribute. ```. getDone() is simply the 👀 eyes for us. Which means the two expressions are both needed to setDone to true && then to view what is now in it.
+4. Appears you might be able to run multiple methods with same name in console without expected errors.
 
 
 ## EXERCISES: JS Lesson && Assignment found [here](https://github.com/Ada-Developers-Academy/daily-curriculum/blob/master/topic_resources/javascript/javascript-101.md)
